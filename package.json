@@ -13,6 +13,7 @@
     "@fontsource-variable/jetbrains-mono": "^5.2.8",
     "@remixicon/react": "^4.9.0",
     "@tauri-apps/api": "^2",
+    "@tauri-apps/plugin-dialog": "~2.7.1",
     "@tauri-apps/plugin-opener": "^2",
     "@tauri-apps/plugin-shell": "~2.3.5",
     "class-variance-authority": "^0.7.1",
